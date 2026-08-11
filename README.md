@@ -19,5 +19,6 @@ Passionate about leveraging **Generative AI**, Large Language Models, and advanc
 
 ### 📬 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/keshavsinghh/)
-* **Email:** [your-email@example.com](Keshav.singh44442@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/keshavsinghh/]
+* **Email:** [Keshav.singh44442@gmail.com]
+* **Kaggle:** [https://www.kaggle.com/keshavsingh44]
