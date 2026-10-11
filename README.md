@@ -9,7 +9,7 @@ Passionate about leveraging **Generative AI**, Large Language Models, and advanc
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, SQL
-* **Generative AI & ML:** LLMs, Groq API, LangChain, PyTorch, Scikit-Learn
+* **Generative AI & ML:** LLMs, APIs, LangChain, PyTorch, Scikit-Learn, NLP, Embedding
 * **Data Analytics & Viz:** Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn
 * **Tools & Platforms:** Git, GitHub, Docker
 
